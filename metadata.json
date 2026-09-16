@@ -1,0 +1,6 @@
+{
+  "name": "PublisherCheck",
+  "description": "Automated due-diligence report for evaluating websites before purchasing guest posts, sponsored articles, or link placements based on verifiable public signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
